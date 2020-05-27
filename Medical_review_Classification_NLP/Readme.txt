@@ -8,5 +8,6 @@ Thus, the use of classification algorithms and simple natural language processin
 to extract data favorable to automated classification 
 contributes to the automation of medical review faster.
 
+And main file is "codes" with jupyter notebook
 data link
 https://catalog.data.gov/dataset/independent-medical-review-imr-determinations-trend-7edbc

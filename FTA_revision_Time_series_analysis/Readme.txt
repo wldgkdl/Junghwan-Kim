@@ -9,3 +9,5 @@ and the revised FTA went into effect in 2019.
 Therefore, the project deals with the verification of the effectiveness of the revision of the Korea-U.S. FTA.
 
 All the data on the various economic indicators included should be downloaded.
+
+And main file is "codes" with jupyter notebook
