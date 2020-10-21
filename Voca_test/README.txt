@@ -9,3 +9,5 @@ whenever I encounter a quiz, I can type the answer of multiple choices and move 
 after the 15 quizzes, I can check my grade. 
 
 Also, you can updated the list of hard vocabularies for you. 
+
+You can join the voca test in the "with_excel" file.
